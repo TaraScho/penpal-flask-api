@@ -1,0 +1,6 @@
+flask
+ddtrace
+jsonify
+requests
+flask-login
+boto3
